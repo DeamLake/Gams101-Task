@@ -14,6 +14,7 @@ int main(){
     std::cout << std::acos(-1) << std::endl;
     std::cout << std::sin(30.0/180.0*acos(-1)) << std::endl;
 
+
     // Example of vector
     std::cout << "Example of vector \n";
     // vector definition
