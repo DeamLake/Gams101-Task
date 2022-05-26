@@ -51,7 +51,7 @@ make
 ## Run
 
 ```powershell
-./main
+./Rasterizer
 ```
 
 
