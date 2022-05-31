@@ -8,9 +8,9 @@ and [Course HomePage](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
 - [x] Assignment 0 Environment Testing
 - [x] Assignment 1 Rotation and Projection
 - [x] Assignment 2 Triangles and Z-buffering
-- [ ] Assignment 3 Pipeline and Shading
-- [ ] Assignment 4 Bézier curve
-- [ ] Assignment 5 Intersect between light and triangle
+- [x] Assignment 3 Pipeline and Shading
+- [x] Assignment 4 Bézier curve
+- [x] Assignment 5 Intersect between light and triangle
 - [ ] Assignment 6 Accelerate
 - [ ] Assignment 7 PathTracing
 - [ ] Assignment 8 Mass spring system
