@@ -11,7 +11,7 @@ and [Course HomePage](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
 - [x] Assignment 3 Pipeline and Shading
 - [x] Assignment 4 Bézier curve
 - [x] Assignment 5 Intersect between light and triangle
-- [ ] Assignment 6 Accelerate
+- [x] Assignment 6 Accelerate
 - [ ] Assignment 7 PathTracing
 - [ ] Assignment 8 Mass spring system
 ## Environment
